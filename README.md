@@ -61,3 +61,40 @@ Evolutionary algorithms from the papers
 16. **Convergence Analysis of Differential Evolution Variants on Unconstrained Global Optimization Functions**. IJAIA, vol. 2, 2011. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Analysis%20%26%20Convergence%20Analysis/1105.1901.pdf), [reference](https://arxiv.org/abs/1105.1901)]
 
     *G.Jeyakumar, C.Shanmugavelayutham.*
+
+## [Classical Evolution Strategies](#classicalES)
+1. **The Dynamics of Cumulative Step-Size Adaptation on the Ellipsoid Model**. Evolutionary Computation, vol. 24, 2016. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Classical%20Evolution%20Strategies/ECJ_BH14.pdf), [reference](https://dl.acm.org/doi/10.1162/EVCO_a_00142)]
+
+   *Hans-Georg Beyer, Michael Hellwig.*
+
+2. **Global linear convergence of Evolution Strategies with recombination on scaling-invariant functions**. Journal of Global Optimization, vol. 86, 2023. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Classical%20Evolution%20Strategies/Global%20linear%20convergence%20of%20Evolution%20Strategies%20with%20recombination%20on%20scaling-invariant%20functions.pdf), [reference](https://link.springer.com/article/10.1007/s10898-022-01249-6)]
+
+   *Cheikh Toure, Anne Auger, Nikolaus Hansen.*
+
+3. **Log-linear Convergence of the Scale-invariant (µ/µw, λ)-ES and Optimal µ for Intermediate Recombination for Large Population Sizes**. PPSN '10. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Classical%20Evolution%20Strategies/Log-linear%20Convergence%20of%20the%20Scale-invariant%20ES.pdf), [reference](https://dl.acm.org/doi/10.5555/1885031.1885038)]
+
+   *Mohamed Jebalia, Anne Auger.*
+
+4. **On a Population Sizing Model for Evolution Strategies Optimizing the Highly Multimodal Rastrigin Function**. GECCO '23. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Classical%20Evolution%20Strategies/On%20a%20Population%20Sizing%20Model%20for%20Evolution%20Strategies%20Optimizing%20the%20Highly%20Multimodal%20Rastrigin%20Function.pdf), [reference](https://dl.acm.org/doi/10.1145/3583131.3590451)]
+
+   *Lisa Schönenberger, Hans-Georg Beyer.*
+
+5. **Self-Adaptation of Multi-Recombinant Evolution Strategies on the Highly Multimodal Rastrigin Function**. Evolutionary Compatation, 2024. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Classical%20Evolution%20Strategies/Self-Adaptation%20of%20Multi-Recombinant%20Evolution%20Strategies%20on%20the%20Highly%20Multimodal%20Rastrigin%20Function.pdf), [reference](https://ieeexplore.ieee.org/document/10530379/citations#citations)]
+
+   *Amir Omeradzic, Hans-Georg Beyer.*
+
+6. **The Dynamics of Self-Adaptive Multi-Recombinant Evolution Strategies on the General Ellipsoid Model**. Evolutionary Computation, vol. 18, 2014. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Classical%20Evolution%20Strategies/The%20Dynamics%20of%20Self-Adaptive%20Multi-Recombinant%20Evolution%20Strategies%20on%20the%20General%20Ellipsoid%20Model.pdf), [reference](https://ieeexplore.ieee.org/document/6615914)]
+
+   *Hans-Georg Beyer, Alexander Melkozerov.*
+
+7. **Self-Adaptation in Evolution Strategies**. Thesis. [[document](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Self-Adaptation%20in%20Evolution%20Strategies.pdf), [reference](https://eldorado.tu-dortmund.de/items/a470d535-419d-4a76-a17b-337e12f9b789)]
+
+   *Silja Meyer-Nieberg.*
+
+8. **The Theory of Evolution Strategies**. Book. [[document](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/The%20Theory%20of%20Evolution%20Strategies.pdf), [reference](https://link.springer.com/book/10.1007/978-3-662-04378-3)]
+
+   *Hans-Georg Beyer.*
+
+9. **Markov chain Analysis of Evolution Strategies**. Thesis. [[document](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Markov%20chain%20Analysis%20of%20Evolution%20Strategies.pdf), [reference](https://theses.hal.science/tel-01252128/)]
+
+    *Alexandre Chotard.*
