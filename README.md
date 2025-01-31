@@ -98,3 +98,40 @@ Evolutionary algorithms from the papers
 9. **Markov chain Analysis of Evolution Strategies**. Thesis. [[document](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Markov%20chain%20Analysis%20of%20Evolution%20Strategies.pdf), [reference](https://theses.hal.science/tel-01252128/)]
 
     *Alexandre Chotard.*
+
+## [CMA-ES & Its Variants](#CMAES)
+1. **The CMA Evolution Strategy: A Tutorial**. arXiv. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/CMA-ES_tutorial.pdf), [reference](https://arxiv.org/abs/1604.00772)]
+
+   *Nikolaus Hansen.*
+
+2. **Completely Derandomized Self-Adaptation in Evolution Strategies**. Evolutionary Computation, vol. 9, 2001. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/hansen2001.pdf), [reference](https://ieeexplore.ieee.org/document/6790628)]
+
+   *Nikolaus Hansen, Andreas Ostermeier.*
+
+3. **A Restart CMA Evolution Strategy With Increasing Population Size**. CEC, 2005. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/cec2005ipopcmaes.pdf), [reference](https://ieeexplore.ieee.org/document/1554902)]
+
+   *Anne Auger, Nikolaus Hansen.*
+
+4. **Deriving and Improving CMA-ES with Information Geometric Trust Regions**. GECCO '17. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/2017_GECCO_Deriving%20and%20Improving%20CMA-ES_Abdolmaleki_Lau_Reis.pdf), [reference](https://dl.acm.org/doi/10.1145/3071178.3071252)]
+
+   *Abbas Abdolmaleki, Bob Price, Nuno Lau, Luis Paulo Reis, Gerhard Neumann.*
+
+5. **Theoretical Foundation for CMA-ES from Information Geometry Perspective**. arXiv. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/THEORETICAL%20FOUNDATION%20FOR%20CMA-ES%20FROM%20INFORMATION%20GEOMETRY%20PERSPECTIVE.pdf), [reference](https://arxiv.org/abs/1206.0730)]
+
+   *Youhei Akimoto, Yuichi Nagata, Isao Ono, Shigenobu Kobayashi.*
+
+6. **A Derandomized Approach to Self Adaptation of Evolution Strategies**. Evolutionary Computation, vol. 2, 1994. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/derapproaEc.pdf), [reference](https://ieeexplore.ieee.org/document/6791625)]
+
+   *Andreas Ostermeier, Andreas Gawelczyk, Nikolaus Hansen.*
+
+7. **Simplify Your Covariance Matrix Adaptation Evolution Strategy**. Evolutionary Computation, vol. 21, 2017. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/TEC_BS17b.pdf), [reference](https://dl.acm.org/doi/abs/10.1109/TEVC.2017.2680320)]
+
+   *Hans-Georg Beyer, Bernhard Sendhoff.*
+
+8. **Sample Reuse in the Covariance Matrix Adaptation Evolution Strategy Based on Importance Sampling**. GECCO '15. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/Sample%20Reuse%20in%20the%20Covariance%20Matrix%20Adaptation%20Evolution%20Strategy%20Based%20on%20Importance%20Sampling.pdf), [reference](https://dl.acm.org/doi/10.1145/2739480.2754704)]
+
+   *Shinichi Shirakawa, Youhei Akimoto, Kazuki Ouchi, Kouzou Ohara.*
+
+9. **CMA-ES with Learning Rate Adaptation: Can CMA-ES with Default Population Size Solve Multimodal and Noisy Problems?**. GECCO '23. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/2401.15876v2.pdf), [reference](https://dl.acm.org/doi/10.1145/3583131.3590358)]
+
+    *Masahiro Nomura, Youhei Akimoto, Isao Ono.*
