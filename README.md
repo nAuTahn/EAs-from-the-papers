@@ -99,6 +99,10 @@ Evolutionary algorithms from the papers
 
     *Alexandre Chotard.*
 
+10. **Bias in Standard Self-Adaptive Evolution Strategies**. CEC, 2024. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Classical%20Evolution%20Strategies/main_cec_preprint.pdf), [reference](https://ieeexplore.ieee.org/document/10612110)]
+
+    *Amir Omeradzic, Hans-Georg Beyer.*
+
 ## [CMA-ES & Its Variants](#CMAES)
 1. **The CMA Evolution Strategy: A Tutorial**. arXiv. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/CMA-ES_tutorial.pdf), [reference](https://arxiv.org/abs/1604.00772)]
 
@@ -135,3 +139,24 @@ Evolutionary algorithms from the papers
 9. **CMA-ES with Learning Rate Adaptation: Can CMA-ES with Default Population Size Solve Multimodal and Noisy Problems?**. GECCO '23. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/2401.15876v2.pdf), [reference](https://dl.acm.org/doi/10.1145/3583131.3590358)]
 
     *Masahiro Nomura, Youhei Akimoto, Isao Ono.*
+
+## [Natural Evolution Strategies](#NES)
+1. **Natural Evolution Strategies**. JMLR, vol. 15, 2014. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Natural%20Evolution%20Strategies/wierstra14a.pdf), [reference](https://jmlr.org/papers/v15/wierstra14a.html)]
+
+   *Daan Wierstra, Tom Schaul, Tobias Glasmachers, Yi Sun, Jan Peters, Jürgen Schmidhuber.*
+
+2. **Exponential Natural Evolution Strategies**. GECCO '10. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Natural%20Evolution%20Strategies/Exponential%20Natural%20Evolution%20Strategies.pdf), [reference](https://dl.acm.org/doi/10.1145/1830483.1830557)]
+
+   *Tobias Glasmachers, Tom Schaul, Sun Yi, Daan Wierstra, Jürgen Schmidhuber.*
+
+3. **Efficient Natural Evolution Strategies**. GECCO '09. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Natural%20Evolution%20Strategies/nes-gecco.pdf), [reference](https://dl.acm.org/doi/10.1145/1569901.1569976)]
+
+   *Yi Sun, Daan Wierstra, Tom Schaul, Jürgen Schmidhuber.*
+
+4. **Bidirectional Relation between CMA Evolution Strategies and Natural Evolution Strategies**. PPSN '10. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Natural%20Evolution%20Strategies/akimoto2010ppsn.pdf), [reference](https://dl.acm.org/doi/abs/10.5555/1885031.1885049)]
+
+   *Youhei Akimoto,  Yuichi Nagata,  Isao Ono,  Shigenobu Kobayashi.*
+
+5. **High Dimensions and Heavy Tails for Natural Evolution Strategies**. GECCO '11. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Natural%20Evolution%20Strategies/gecco2011snes.pdf), [reference](https://dl.acm.org/doi/10.1145/2001576.2001692)]
+
+   *Tom Schaul, Tobias Glasmachers, Jürgen Schmidhuber.*
