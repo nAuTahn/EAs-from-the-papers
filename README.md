@@ -7,7 +7,8 @@ Evolutionary algorithms from the papers
 <tr><td colspan="2"><a href="#analysis">1. Analysis & Convergence Analysis</a></td></tr>
 <tr><td colspan="2"><a href="#classicalES">2. Classical Evolution Strategies</a></td></tr>
 <tr><td colspan="2"><a href="#CMAES">3. CMA-ES & Its Variants</a></td></tr> 
-<tr><td colspan="2"><a href="#NES">4. Natural Evolution Strategies</a></td></tr> 
+<tr><td colspan="2"><a href="#NES">4. Natural Evolution Strategies</a></td></tr>
+<tr><td colspan="2"><a href="#DE">5. Differential Evolution & Its Variants</a></td></tr> 
 
 </table>
 
@@ -174,3 +175,29 @@ Evolutionary algorithms from the papers
 5. **High Dimensions and Heavy Tails for Natural Evolution Strategies**. GECCO '11. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Natural%20Evolution%20Strategies/gecco2011snes.pdf), [reference](https://dl.acm.org/doi/10.1145/2001576.2001692)]
 
    *Tom Schaul, Tobias Glasmachers, Jürgen Schmidhuber.*
+
+<h2 id="DE">Differential Evolution & Its Variants</h2>
+
+1. **Modular Differential Evolution**. GECCO '23. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Differential%20Evolution/Modular%20Differential%20Evolution.pdf), [reference](https://dl.acm.org/doi/10.1145/3583131.3590417)]
+
+   *Diederick Vermetten, Fabio Caraffini, Anna V. Kononova, Thomas Bäck.*
+
+2. **Geometric Differential Evolution**. GECCO '09. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Differential%20Evolution/Geometric%20Differential%20Evolution.pdf), [reference](https://dl.acm.org/doi/10.1145/1569901.1570130)]
+
+   *Alberto Moraglio, Julian Togelius.*
+
+3. **Success-History Based Parameter Adaptation for Differential Evolution**. CEC, 2013. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Differential%20Evolution/Success-History%20Based%20Parameter%20Adaptation%20for%20Differential%20Evolution.pdf), [reference](https://ieeexplore.ieee.org/document/6557555)]
+
+   *Ryoji Tanabe, Alex Fukunaga.*
+
+4. **Differential Evolution Algorithm With Strategy Adaptation for Global Numerical Optimization**. Evolutionary Computation, vol. 13, 2009. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Differential%20Evolution/Differential%20Evolution%20Algorithm%20With%20Strategy%20Adaptation%20for%20Global%20Numerical%20Optimization.pdf), [reference](https://ieeexplore.ieee.org/document/4632146)]
+
+   *A. K. Qin, V. L. Huang, and P. N. Suganthan.*
+
+5. **A Novel Similarity-based Mutant Vector Generation Strategy for Differential Evolution**. GECCO '18. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Differential%20Evolution/A%20Novel%20Similarity-based%20Mutant%20Vector%20Generation%20Strategy%20for%20Differential%20Evolution.pdf), [reference](https://dl.acm.org/doi/10.1145/3205455.3205628)]
+
+   *Eduardo Segredo, Eduardo Lalla-Ruiz, Emma Hart.*
+
+6. **Differential Evolution with Composite Trial Vector Generation Strategies and Control Parameters**. Evolutionary Computation, vol. 15, 2011. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Differential%20Evolution/Differential%20Evolution%20with%20Composite%20Trial%20Vector%20Generation%20Strategies%20and%20Control%20Parameters.pdf), [reference](https://ieeexplore.ieee.org/document/5688232)]
+
+   *Yong Wang, Zixing Cai, Qingfu Zhang.*
