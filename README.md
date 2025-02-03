@@ -1,6 +1,16 @@
 # EAs-from-the-papers
 Evolutionary algorithms from the papers
 
+## [Content](#content)
+
+<table>
+<tr><td colspan="2"><a href="#analysis">1. Analysis & Convergence Analysis</a></td></tr>
+<tr><td colspan="2"><a href="#classicalES">2. Classical Evolution Strategies</a></td></tr>
+<tr><td colspan="2"><a href="#CMAES">3. CMA-ES & Its Variants</a></td></tr> 
+<tr><td colspan="2"><a href="#NES">4. Natural Evolution Strategies</a></td></tr> 
+
+</table>
+
 ## [Analysis & Convergence Analysis](#analysis)
 1. **Natural Evolution Strategies Converge on Sphere Functions**. GECCO '12. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Analysis%20%26%20Convergence%20Analysis/nesproof.pdf), [reference](https://dl.acm.org/doi/10.1145/2330163.2330211)]
 
