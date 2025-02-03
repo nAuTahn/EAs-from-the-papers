@@ -11,7 +11,8 @@ Evolutionary algorithms from the papers
 
 </table>
 
-## [Analysis & Convergence Analysis](#analysis)
+<h2 id="analysis">Analysis & Convergence Analysis</h2>
+
 1. **Natural Evolution Strategies Converge on Sphere Functions**. GECCO '12. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Analysis%20%26%20Convergence%20Analysis/nesproof.pdf), [reference](https://dl.acm.org/doi/10.1145/2330163.2330211)]
 
    *Tom Schaul.*
@@ -72,7 +73,8 @@ Evolutionary algorithms from the papers
 
     *G.Jeyakumar, C.Shanmugavelayutham.*
 
-## [Classical Evolution Strategies](#classicalES)
+<h2 id="classicalES">Classical Evolution Strategies</h2>
+
 1. **The Dynamics of Cumulative Step-Size Adaptation on the Ellipsoid Model**. Evolutionary Computation, vol. 24, 2016. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Classical%20Evolution%20Strategies/ECJ_BH14.pdf), [reference](https://dl.acm.org/doi/10.1162/EVCO_a_00142)]
 
    *Hans-Georg Beyer, Michael Hellwig.*
@@ -113,7 +115,8 @@ Evolutionary algorithms from the papers
 
     *Amir Omeradzic, Hans-Georg Beyer.*
 
-## [CMA-ES & Its Variants](#CMAES)
+<h2 id="CMAES">CMA-ES & Its Variants</h2>
+
 1. **The CMA Evolution Strategy: A Tutorial**. arXiv. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/CMA-ES/CMA-ES_tutorial.pdf), [reference](https://arxiv.org/abs/1604.00772)]
 
    *Nikolaus Hansen.*
@@ -150,7 +153,8 @@ Evolutionary algorithms from the papers
 
     *Masahiro Nomura, Youhei Akimoto, Isao Ono.*
 
-## [Natural Evolution Strategies](#NES)
+<h2 id="NES">Natural Evolution Strategies</h2>
+
 1. **Natural Evolution Strategies**. JMLR, vol. 15, 2014. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Natural%20Evolution%20Strategies/wierstra14a.pdf), [reference](https://jmlr.org/papers/v15/wierstra14a.html)]
 
    *Daan Wierstra, Tom Schaul, Tobias Glasmachers, Yi Sun, Jan Peters, Jürgen Schmidhuber.*
