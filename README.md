@@ -8,7 +8,8 @@ Evolutionary algorithms from the papers
 <tr><td colspan="2"><a href="#classicalES">2. Classical Evolution Strategies</a></td></tr>
 <tr><td colspan="2"><a href="#CMAES">3. CMA-ES & Its Variants</a></td></tr> 
 <tr><td colspan="2"><a href="#NES">4. Natural Evolution Strategies</a></td></tr>
-<tr><td colspan="2"><a href="#DE">5. Differential Evolution & Its Variants</a></td></tr> 
+<tr><td colspan="2"><a href="#DE">5. Differential Evolution & Its Variants</a></td></tr>
+<tr><td colspan="2"><a href="#igo">6. Information Geometry & Information Geometric Optimization</a></td></tr> 
 
 </table>
 
@@ -201,3 +202,33 @@ Evolutionary algorithms from the papers
 6. **Differential Evolution with Composite Trial Vector Generation Strategies and Control Parameters**. Evolutionary Computation, vol. 15, 2011. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Differential%20Evolution/Differential%20Evolution%20with%20Composite%20Trial%20Vector%20Generation%20Strategies%20and%20Control%20Parameters.pdf), [reference](https://ieeexplore.ieee.org/document/5688232)]
 
    *Yong Wang, Zixing Cai, Qingfu Zhang.*
+
+<h2 id="igo">Information Geometry & Information Geometric Optimization</h2>
+
+1. **Why Natural Gradient?**. ICASSP, 1998. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/why_natural_gradient.pdf), [reference](https://ieeexplore.ieee.org/document/675489)]
+
+   *S. Amari, S.C. Douglas.*
+
+2. **Information Geometry of the Gaussian Distribution in View of Stochastic Optimization**. FOGA '15. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Information%20Geometric%20Optimization/2015FOGA.pdf), [reference](https://dl.acm.org/doi/10.1145/2725494.2725510)]
+
+   *Luigi Malagò, Giovanni Pistone.*
+
+3. **Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles**. JMLR, vol. 18, 2017. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Information%20Geometric%20Optimization/14-467.pdf), [reference](https://jmlr.org/papers/v18/14-467.html)]
+
+   *Yann Ollivier, Ludovic Arnold, Anne Auger, Nikolaus Hansen.*
+
+4. **Convergence Analysis of Evolutionary Algorithms That are Based on the Paradigm of Information Geometry**. Evolutionary Computation, vol. 28, 2014. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Information%20Geometric%20Optimization/Convergence%20Analysis%20of%20Evolutionary%20Algorithms%20That%20are%20Based%20on%20the%20Paradigm%20of%20Information%20Geometry.pdf), [reference](https://dl.acm.org/doi/abs/10.1162/EVCO_a_00132)]
+
+   *Hans-Georg Beyer.*
+
+5. **Information Geometry and Its Applications**. Lecture. [[document](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Information%20Geometric%20Optimization/SlidesAmariIG1.pdf)]
+
+   *S. Amari.*
+
+6. **Information Geometry and Its Applications to Machine Learning**. Lecture. [[document](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Information%20Geometric%20Optimization/Information%20Geometry%20and%20Its%20Applications%20to%20ML.pdf)]
+
+   *S. Amari.*
+
+7. **Information Geometry and Its Applications**. Lecture. [[document](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Information%20Geometric%20Optimization/Information%20Geometry%20and%20Its%20Applications.pdf)]
+
+   *S. Amari.*
