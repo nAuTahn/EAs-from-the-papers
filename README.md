@@ -259,3 +259,7 @@ Evolutionary algorithms from the papers
 6. **Comparison-Based Natural Gradient Optimization in High Dimension**. GECCO '14. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Large-scale%20Optimization/gecco2014-pap287-akimoto.pdf), [reference](https://dl.acm.org/doi/10.1145/2576768.2598258)]
 
    *Youhei Akimoto, Anne Auger, Nikolaus Hansen.*
+
+7. **Projection-Based Restricted Covariance Matrix Adaptation for High Dimension**. GECCO '16. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Large-scale%20Optimization/Projection-Based%20Restricted%20Covariance%20Matrix%20Adaptation%20for%20High%20Dimension.pdf), [reference](https://dl.acm.org/doi/10.1145/2908812.2908863)]
+
+   *Youhei Akimoto, Nikolaus Hansen.*
