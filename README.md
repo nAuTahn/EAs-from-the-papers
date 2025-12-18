@@ -9,7 +9,8 @@ Evolutionary algorithms from the papers
 <tr><td colspan="2"><a href="#CMAES">3. CMA-ES & Its Variants</a></td></tr> 
 <tr><td colspan="2"><a href="#NES">4. Natural Evolution Strategies</a></td></tr>
 <tr><td colspan="2"><a href="#DE">5. Differential Evolution & Its Variants</a></td></tr>
-<tr><td colspan="2"><a href="#igo">6. Information Geometry & Information Geometric Optimization</a></td></tr> 
+<tr><td colspan="2"><a href="#igo">6. Information Geometry & Information Geometric Optimization</a></td></tr>
+<tr><td colspan="2"><a href="#lso">7. Large-scale Optimization</a></td></tr>
 
 </table>
 
@@ -232,3 +233,29 @@ Evolutionary algorithms from the papers
 7. **Information Geometry and Its Applications**. Lecture. [[document](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Information%20Geometric%20Optimization/Information%20Geometry%20and%20Its%20Applications.pdf)]
 
    *S. Amari.*
+
+<h2 id="lso">Large-scale Optimization</h2>
+
+1. **A Computationally Efficient Limited Memory CMA-ES for Large Scale Optimization**. GECCO '14. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Large-scale%20Optimization/1404.5520.pdf), [reference](https://dl.acm.org/doi/10.1145/2576768.2598294)]
+   
+   *Ilya Loshchilov.*
+
+2. **LM-CMA: an Alternative to L-BFGS for Large Scale Black-box Optimization**. Evolutionary Computation, vol. 25, 2017. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Large-scale%20Optimization/1511.00221.pdf), [reference](https://dl.acm.org/doi/abs/10.1162/EVCO_a_00168)]
+
+   *Ilya Loshchilov.*
+
+3. **Limited-Memory Matrix Adaptation for Large Scale Black-box Optimization**. Evolutionary Computation, vol. 23, 2019. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Large-scale%20Optimization/1705.06693.pdf), [reference](https://ieeexplore.ieee.org/document/8410043)]
+
+   *Ilya Loshchilov, Tobias Glasmachers, Hans-Georg Beyer.*
+
+4. **A Linear Time Natural Evolution Strategy for Non-Separable Functions**. GECCO '13 Companion. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Large-scale%20Optimization/A%20Linear%20Time%20Natural%20Evolution%20Strategy%20for%20Non-Separable%20Functions.pdf), [reference](https://dl.acm.org/doi/abs/10.1145/2464576.2464608)]
+
+   *Yi Sun, Faustino Gomez, Tom Schaul, and J¨urgen Schmidhuber.*
+
+5. **From Complexity to Simplicity: Adaptive ES-Active Subspaces for Blackbox Optimization**. NeurIPS 2019. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Large-scale%20Optimization/From%20Complexity%20to%20Simplicity_%20Adaptive%20ES-Active%20Subspaces%20for%20Blackbox%20Optimization.pdf), [reference](https://dl.acm.org/doi/abs/10.5555/3454287.3455211)]
+
+   *Krzysztof Choromanski, Aldo Pacchiano, Jack Parker-Holder, Yunhao Tang.*
+
+6. **Comparison-Based Natural Gradient Optimization in High Dimension**. GECCO '14. [[paper](https://github.com/nAuTahn/EAs-from-the-papers/blob/main/Large-scale%20Optimization/gecco2014-pap287-akimoto.pdf), [reference](https://dl.acm.org/doi/10.1145/2576768.2598258)]
+
+   *Youhei Akimoto, Anne Auger, Nikolaus Hansen.*
